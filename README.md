@@ -37,8 +37,8 @@ Security
 The security, integrity and confidentiality of your information are extremely important to us. 
 We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification.
 
-However, we cannot guarantee its absolute security. W
-hile no security system is completely secure, Solitaire Game Developper and its third-party partners and vendors take appropriate security measures to protect against unauthorized access or disclosure of the information collected by us.
+However, we cannot guarantee its absolute security. 
+While no security system is completely secure, Solitaire Game Developper and its third-party partners and vendors take appropriate security measures to protect against unauthorized access or disclosure of the information collected by us.
 
 Changes to this Privacy Policy
 We may update this Privacy Policy to reflect changes to information practices. 
